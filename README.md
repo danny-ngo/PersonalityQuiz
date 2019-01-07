@@ -1,4 +1,9 @@
-# HW2: Personality quiz; Chrome extension 
+# PersonalityQuiz
+A Buzzfeed style personality quiz. This is the first part of assignment 2 of Stanford University's CSX-193.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+## HW2: Personality quiz; Chrome extension 
 
 You are required to complete two parts of the assignment:
 
