@@ -1,0 +1,36 @@
+.choice-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 10px 0px;
+}
+
+.choice-grid div {
+  background-color: #f4f4f4;
+  width: 32.5%;
+  padding: 10px;
+  margin: 10px 0px;
+  border: 1px;
+  border-color: #dcdcdc;
+  box-sizing: border-box;
+}
+
+.choice-grid div img {
+  width: 100%;
+}
+
+@media screen and (max-width: 700px) {
+  article {
+    width: 95%;
+  }
+
+  header div span {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .choice-grid div {
+    width: 49%;
+  }
+}
